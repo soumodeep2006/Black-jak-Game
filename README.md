@@ -35,9 +35,7 @@ If your score goes above 21, you lose (Bust).
 
 1. Open the project in:
 
-   * Google Colab OR
-   * Jupyter Notebook
-
+   * Google Colab 
 2. Run all the cells step by step
 
 3. Follow the instructions displayed in the output
